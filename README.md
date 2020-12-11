@@ -1,2 +1,2 @@
 # BrewersBeerRecipes
- Brewer's Friend Beer Recipes
+ Brewer's Friend Beer Recipes Machine Learning
